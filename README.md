@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sloan Davis</h1>
 <h3 align="center">A Computer Science Student passionate about building software that improves people's lives</h3>
 
-- 🔭 I’m currently working on [Wet Bulb Bot](https://github.com/SloanBDavis/WetBulbBot)
-
-- 🌱 I’m currently learning **React, AWS**
-
-- 👨‍💻 All of my projects are available at ***Coming Soon***
+- I am currently working at Apple as a software engineer
 
 - 📫 How to reach me **sloanbdavis@gmail.com**
 
